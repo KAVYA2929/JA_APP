@@ -10,7 +10,7 @@ Features :
 Technologies Used:
 
 * Android Studio: IDE for development.
-* Java/Kotlin: Programming language.
+* Java: Programming language.
 * WebView: To load and interact with the website.
 * Gradle: Build tool for dependency and project management.
 
